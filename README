@@ -1,0 +1,8 @@
+Sugar IRC Activity
+
+This is a simple Internet Relay Chat (IRC) Client for Sugar, based on
+a (now moribund) Python IRC client called "Urk".
+
+Original code by Eduardo Silva <edsiper@gmail.com>.
+Maintained from 2008-2010 by Mel Chua <mel@melchua.com>.
+Recent additions by Fran Rogers <fran@dumetella.net>.
